@@ -7,3 +7,5 @@ Simple_Dork_Automation
 6. After this select the file path and convert to .exe
 7. Modify as you see fit!
 8. An .exe file has been added to demonstrate usage as an executable.
+
+The add-on file when started will save the cursor location as X and Y. Which can be used in the file to click on a specific place on the screen.
